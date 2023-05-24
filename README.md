@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdallah0118
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning TypeScript & Angular JS
+- 👀 I’m interested in JavaScript & React JS
+- 🌱 I’m currently Front-End | React JS developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
